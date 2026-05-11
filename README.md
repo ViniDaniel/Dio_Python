@@ -1,6 +1,6 @@
 # Dio_Python
 
-#Como Roda?
+# Como Roda?
 
 **Recomendo que instale dependencias dentro do ambiente virtual**
 
